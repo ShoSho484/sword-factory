@@ -1,4 +1,4 @@
--- Shos v.1.1  |  auto-execute recommended for boss/priority server hop
+-- Shos v17  |  auto-execute recommended for boss/priority server hop
 task.wait(2)
 
 local PathfindingService = game:GetService("PathfindingService")
